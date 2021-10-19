@@ -138,7 +138,7 @@ var ___minggu = 'Rp 7.000,00'
 var _bulan = 'Rp 10.000,00'
 var _permanen = 'Rp 15.000,00'
 
-zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
+zeksApikey = 'hK8jOzZypxv2rZ5xANHXduGDODq' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
 thumbnail = setting.thumb
 fthumb = setting.fakethumb
